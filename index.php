@@ -1,5 +1,6 @@
 <html> 
-    <head> 
+    <head>
+    <meta charset="UTF-8">
         <title>Desplegant una aplicació PHP sobre Heroku</title> 
     </head> 
     <body> 
